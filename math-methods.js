@@ -10,6 +10,7 @@ console.log(Math.PI);
 // ---- Verwachte uitkomst: 12.566370614359172
 
 
+
 /* Opdracht 2: */
 // Bereken de omtrek van een cirkel met een diameter van 12 en rond dit af naar een heel getal. Log dit in de terminal.
 // ---- Verwachte uitkomst: 38
